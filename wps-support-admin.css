@@ -1,0 +1,45 @@
+/* Basic styling for support widget*/
+
+.wps-support img {
+    display: block;
+	margin: 0 auto;
+	max-width: 60%;
+}
+
+.wps-support h3 {
+    text-align: center;
+    font-size: 18px!important;
+    font-weight: 600!important;
+    line-height: 22px;
+}
+
+span.wps-support-button {
+    padding: 10px;
+    background-color: #2c4778;
+    border-radius: 5px;
+    margin: 15px 15%;
+    display: block;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600!important;
+    font-size: 16px;
+}
+
+span.wps-support-button:hover {
+    background-color: #3764ab;
+}
+
+.wps-support h4 {
+    font-weight: 600!important;
+    font-size: 18px!important;
+    margin-left: 15px!important;
+}
+
+.wps-support ul li {
+    list-style: disc;
+    margin-left: 30px;
+}
+
+.wps-support p {
+    text-align: center;
+}
